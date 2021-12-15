@@ -10,7 +10,7 @@ Let the history of the production's theme remain a secret. The title character -
 ![game screenshot 03](https://raw.githubusercontent.com/michalkolodziejski/verbose-happiness/main/_release/Kaz's%20Knickers%20-%2003.png)
 ![game screenshot 04](https://raw.githubusercontent.com/michalkolodziejski/verbose-happiness/main/_release/Kaz's%20Knickers%20-%2004.png)
 ![award 01](https://raw.githubusercontent.com/michalkolodziejski/verbose-happiness/main/_release/265198276_1977975165722177_5321196020573748428_n.jpeg)
-![award_02](https://raw.githubusercontent.com/michalkolodziejski/verbose-happiness/main/_release/265297630_873218290043350_6043312988164143035_n.jpeg)
+![award_02](https://raw.githubusercontent.com/michalkolodziejski/verbose-happiness/main/_release/265297630_873218290043350_6043312988164143035_n.jpg)
 
 ## Creditz
 - `GFX` has been ripped from an Atari 2600 Pitfall game, but with adapted color grading to my favour.
