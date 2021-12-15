@@ -5,8 +5,12 @@ The title is an arcade game (duh?). I wanted it to be very colourful and dynamic
 
 Let the history of the production's theme remain a secret. The title character - Kaz, is precisely the well-known Kaz from AtariOnline.pl. The title is to commemorate his contribution as a history researcher, the difficulties faced and even a particular event, in a humorous way, without mocking or ridiculing. Of course, everything took place with consent and even the clear and active objection of the main character (joke).
 
-![game screenshot 01][_release/Kaz's%20Knickers%20-%2001.png]![game screenshot 02][_release/Kaz's%20Knickers%20-%2002.png]
-![game screenshot 03][_release/Kaz's%20Knickers%20-%2003.png]![game screenshot 04][_release/Kaz's%20Knickers%20-%2004.png]
+![game screenshot 01](https://raw.githubusercontent.com/michalkolodziejski/verbose-happiness/main/_release/Kaz's%20Knickers%20-%2001.png)
+![game screenshot 02](https://raw.githubusercontent.com/michalkolodziejski/verbose-happiness/main/_release/Kaz's%20Knickers%20-%2002.png)
+![game screenshot 03](https://raw.githubusercontent.com/michalkolodziejski/verbose-happiness/main/_release/Kaz's%20Knickers%20-%2003.png)
+![game screenshot 04](https://raw.githubusercontent.com/michalkolodziejski/verbose-happiness/main/_release/Kaz's%20Knickers%20-%2004.png)
+![award 01](https://raw.githubusercontent.com/michalkolodziejski/verbose-happiness/main/_release/265198276_1977975165722177_5321196020573748428_n.jpeg)
+![award_02](https://raw.githubusercontent.com/michalkolodziejski/verbose-happiness/main/_release/265297630_873218290043350_6043312988164143035_n.jpeg)
 
 ## Creditz
 - `GFX` has been ripped from an Atari 2600 Pitfall game, but with adapted color grading to my favour.
