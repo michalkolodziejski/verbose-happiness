@@ -12,6 +12,10 @@ Let the history of the production's theme remain a secret. The title character -
 ![award 01](https://raw.githubusercontent.com/michalkolodziejski/verbose-happiness/main/_release/265198276_1977975165722177_5321196020573748428_n.jpeg)
 ![award_02](https://raw.githubusercontent.com/michalkolodziejski/verbose-happiness/main/_release/265297630_873218290043350_6043312988164143035_n.jpg)
 
+## ROMS
+- [NTSC Version](https://raw.githubusercontent.com/michalkolodziejski/verbose-happiness/main/_release/Kaz's%20Knickers%20(NTSC)%20[SV2021%20compo%20edition]_20211104_1539.bin)
+- [PAL60 Version](https://raw.githubusercontent.com/michalkolodziejski/verbose-happiness/main/_release/Kaz's%20Knickers%20(PAL60)%20[SV2021%20compo%20edition]_20211112_2125)
+
 ## Creditz
 - `GFX` has been ripped from an Atari 2600 Pitfall game, but with adapted color grading to my favour.
 - `MUSIC` by Fragmare (drums track part from "Devils Crush" - sample from AA page https://atariage.com/forums/topic/250014-tiatracker-a-new-sound-routine-and-sequencer-application/page/4/)
@@ -27,6 +31,7 @@ Let the history of the production's theme remain a secret. The title character -
 - `Marcin 'Whip' Łapiński`, for challenging me with Atari 2600 programming, 
 - `Kamil 'Gorgh' Trzaska`, for inspiration and infinite imagination,
 - `Mono`, for simply being there and letting us warm in the grace of your knowledge,
+- `Jakub 'QBA' Husak`, for being the best musician, I happen to know (literally) :P
 - `Kaz`, for everything else
 - `all the fellows Atarians and other retro freaks` not mentioned here - keep up the good work!
 
