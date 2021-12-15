@@ -17,7 +17,7 @@ Let the history of the production's theme remain a secret. The title character -
 - [PAL60 Version](https://raw.githubusercontent.com/michalkolodziejski/verbose-happiness/main/_release/Kaz's%20Knickers%20(PAL60)%20[SV2021%20compo%20edition]_20211112_2125)
 
 ## Creditz
-- `GFX` has been ripped from an Atari 2600 Pitfall game, but with adapted color grading to my favour.
+- `GFX` has been ripped from an Atari 2600 Pitfall game, but with adapted colour grading to my favour.
 - `MUSIC` by Fragmare (drums track part from "Devils Crush" - sample from AA page https://atariage.com/forums/topic/250014-tiatracker-a-new-sound-routine-and-sequencer-application/page/4/)
 - `IDEA and CODE` by Michał "Misza" Kołodziejski/AOL
 
@@ -26,7 +26,7 @@ Let the history of the production's theme remain a secret. The title character -
 - PLEASE BE EXCITED
 
 ## Greetz
-- `Tomasz 'TDC' Cieślewicz`, for not letting the 90s go out of our minds, and inspiration to "blink those colors professionally",
+- `Tomasz 'TDC' Cieślewicz`, for not letting the 90s go out of our minds, and inspiration to "blink those colours professionally",
 - `Fragmare`, for his excellent drums track,
 - `Marcin 'Whip' Łapiński`, for challenging me with Atari 2600 programming, 
 - `Kamil 'Gorgh' Trzaska`, for inspiration and infinite imagination,
@@ -41,7 +41,7 @@ Let the history of the production's theme remain a secret. The title character -
 - the game does NOT use special banking schemes,
 - the game does NOT use special chips (emulated or real placed in a cartridge) DPC type,
 - the game draws 3 sprites (1 standard player 0 60Hz, two sprites interwoven pants and 30Hz trash cans),
-- the game displays a lot of colors (some even as befits an Atari - simultaneously and practically in the same line),
+- the game displays a lot of colours (some even as befits an Atari - simultaneously and practically in the same line),
 - the game ONLY supports the joystick in port A,
 - the game does not support paddles,
 - the game does not have easter-eggs (it's not this holidays!),
