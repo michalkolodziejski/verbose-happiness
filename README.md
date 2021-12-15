@@ -3,8 +3,9 @@
 
 The title is an arcade game (duh?). I wanted it to be very colourful and dynamic - but at the same time very simple. It is representative of the "endless runner" genre and my first production for the Atari 2600. I recommend the NTSC TV format - I liked this colour palette better, the PAL60 format after the colour mapping was more dimmed.
 
-Let the history of the production's theme remain a secret. The title character - Kaz, is precisely the well-known Kaz from AtariOnline.pl. The title is to commemorate his contribution as a history researcher, the difficulties faced and even a particular event, in a humorous way, without mocking or ridiculing. Of course, everything took place with consent and even the clear and active objection of the main character (joke).
+Let the history of the production's theme remain a secret. The title character - `Kaz`, is precisely the well-known Kaz from `AtariOnline.pl`. The title is to commemorate his contribution as a history researcher, the difficulties faced and even a particular event, in a humorous way, without mocking or ridiculing. Of course, everything took place with consent and even the clear and active objection of the main character (joke).
 
+### Game screenshots
 ![game screenshot 01](https://raw.githubusercontent.com/michalkolodziejski/verbose-happiness/main/_release/Kaz's%20Knickers%20-%2001.png)
 ![game screenshot 02](https://raw.githubusercontent.com/michalkolodziejski/verbose-happiness/main/_release/Kaz's%20Knickers%20-%2002.png)
 ![game screenshot 03](https://raw.githubusercontent.com/michalkolodziejski/verbose-happiness/main/_release/Kaz's%20Knickers%20-%2003.png)
@@ -12,13 +13,16 @@ Let the history of the production's theme remain a secret. The title character -
 ![award 01](https://raw.githubusercontent.com/michalkolodziejski/verbose-happiness/main/_release/265198276_1977975165722177_5321196020573748428_n.jpeg)
 ![award_02](https://raw.githubusercontent.com/michalkolodziejski/verbose-happiness/main/_release/265297630_873218290043350_6043312988164143035_n.jpg)
 
+### Gameplay video (720p@60)
+[VIMEO link](https://vimeo.com/657170125)
+
 ## ROMS
 - [NTSC Version](https://raw.githubusercontent.com/michalkolodziejski/verbose-happiness/main/_release/Kaz's%20Knickers%20(NTSC)%20[SV2021%20compo%20edition]_20211104_1539.bin)
 - [PAL60 Version](https://raw.githubusercontent.com/michalkolodziejski/verbose-happiness/main/_release/Kaz's%20Knickers%20(PAL60)%20[SV2021%20compo%20edition]_20211112_2125)
 
 ## Creditz
 - `GFX` has been ripped from an Atari 2600 Pitfall game, but with adapted colour grading to my favour.
-- `MUSIC` by Fragmare (drums track part from "Devils Crush" - sample from AA page https://atariage.com/forums/topic/250014-tiatracker-a-new-sound-routine-and-sequencer-application/page/4/)
+- `MUSIC` by Fragmare (drums track part from "Devils Crush" - sample from AtariAge forum [link](https://atariage.com/forums/topic/250014-tiatracker-a-new-sound-routine-and-sequencer-application/page/4/))
 - `IDEA and CODE` by Michał "Misza" Kołodziejski/AOL
 
 ## How to play?
