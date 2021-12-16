@@ -55,6 +55,7 @@ Let the history of the production's theme remain a secret. The title character -
 - `Batari Basic v1.5` by Fred "Batari" Quimby [link](https://github.com/sehugg/batariBasic)
 - `TIATracker` [link](https://battleofthebits.org/lyceum/View/TIATracker/)
 - `Titlescreen mini kernel` [link](https://atariage.com/forums/topic/169819-the-titlescreen-kernel/)
+- `IMG2CODE` - part of VisualBB - unfortunately Windows ONLY ;( [link](http://www.atariage.com/forums/topic/123849-visual-bb-1-0-a-new-ide-for-batari-basic/)
 
 ## Even more boring technical stuff aka "How to build it up alltogether"
 - install `Visual Studio Code` [link](https://code.visualstudio.com/)
@@ -67,4 +68,4 @@ Let the history of the production's theme remain a secret. The title character -
 * Initial version.
 
 ## Problems?
-[Submit an issue](https://github.com/michalkolodziejski/verbose-happiness/issues).
+[Submit an issue](https://github.com/michalkolodziejski/verbose-happiness/issues)
